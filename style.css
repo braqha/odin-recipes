@@ -1,0 +1,12 @@
+#header{
+    text-align: center;
+    background-color: #CF995F;
+}
+.cntr{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.test{
+    font-family: Garamond,sans-serif;
+}
